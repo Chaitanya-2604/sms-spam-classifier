@@ -9,8 +9,12 @@ Dataset Source Link : https://www.kaggle.com/datasets/uciml/sms-spam-collection-
 1.Data Cleaning
 
 2.Exploratory Data Analysis
+
 3.Data Preprocessing and feature engineering (Feature Construction)
+
 4.Model training
+
 5.Pickelizing model
+
 6.Creating streamlit for model
 
