@@ -28,4 +28,4 @@ For support, email chaitanyalarokar9@gmail.com or contact.
 # Screenshots of project
 
 
-screenshot/ssc.png
+![Image Alt Text](screenshot/ssc.png)
